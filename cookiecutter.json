@@ -1,0 +1,8 @@
+{
+  "full_name": "Osvaldo Cordova Aburto",
+  "email": "oca159@hotmail.es",
+  "project_name": "mysite",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "app_name": "app",
+  "open_source_license": ["MIT", "BSD", "ISCL", "Apache Software License 2.0", "Not open source"]  
+}

@@ -1,0 +1,3 @@
+{% raw %}
+{% load i18n %}{% trans "Activar tu cuenta en" %} {{ site.name }}
+{% endraw %}
