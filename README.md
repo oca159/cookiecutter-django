@@ -14,6 +14,8 @@ It also contains the next python packages:
 - celery==3.1.25
 - flower==0.9.1
 - mysqlclient==1.3.10
+- whitenoise==3.3.0
+- Pillow==4.0.0
 
 ## How to install the dependencies
 **pip install -r requirements.txt**
@@ -23,6 +25,4 @@ It also contains the next python packages:
 - Add django-compressor | django-pipeline
 - Create base, local, production settings
 - Add Sphinx for documentation
-- Add Whitenoise to manage static files (css, js, images)
 - Add Sentry to report errors
-- Add pillow library
